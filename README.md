@@ -1,6 +1,5 @@
 
-![MANUEL2](https://github.com/user-attachments/assets/6ce3f271-9385-4400-8c06-69dd24c1ec72)
-
+![MANUEL2](https://github.com/user-attachments/assets/a8b912c9-21a6-42cc-806d-b3e5c00dd27d)
 
 👋 Hola, soy @JUANDTE
 
