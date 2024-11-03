@@ -1,4 +1,7 @@
-![MANUEL2](https://github.com/user-attachments/assets/d113aaf2-4b22-4ae4-b5f3-fd303cfc9bcc)
+
+![MANUEL2](https://github.com/user-attachments/assets/6ce3f271-9385-4400-8c06-69dd24c1ec72)
+
+
 👋 Hola, soy @JUANDTE
 
 -👀 Me interesa aprender sobre la IA y sus aplicaciones en la investigación científica.
