@@ -1,6 +1,11 @@
-![MANUEL](https://github.com/user-attachments/assets/f7b84e3d-aa60-4b41-b6a6-5be712a8287c)
-- 👋 HOLA SOY EL ING JUAN
-- 👀 EDUCACION REBELDE
+![MANUEL2](https://github.com/user-attachments/assets/d113aaf2-4b22-4ae4-b5f3-fd303cfc9bcc)
+👋 Hola, soy @JUANDTE
+
+-👀 Me interesa aprender sobre la IA y sus aplicaciones en la investigación científica.
+
+-🌱 Me encuentro estudiando tecnología educativa
+
+-💞️ Me interesa colaborar para la difusión y divulgaión de investigación científica.
 
 
 <!---
