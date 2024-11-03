@@ -1,4 +1,4 @@
-![JUAN](https://github.com/user-attachments/assets/02e97422-2425-4db5-9fbc-b3266d8bb9f3)
+![MANUEL](https://github.com/user-attachments/assets/f7b84e3d-aa60-4b41-b6a6-5be712a8287c)
 - 👋 HOLA SOY EL ING JUAN
 - 👀 EDUCACION REBELDE
 
