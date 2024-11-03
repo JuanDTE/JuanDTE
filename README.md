@@ -1,4 +1,4 @@
-<imagen original"JUAN.jpg">
+![JUAN](https://github.com/user-attachments/assets/02e97422-2425-4db5-9fbc-b3266d8bb9f3)
 - 👋 HOLA SOY EL ING JUAN
 - 👀 EDUCACION REBELDE
 
