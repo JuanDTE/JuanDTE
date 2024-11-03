@@ -1,4 +1,4 @@
-<imagen original"juan.jpg"
+<imagen original"JUAN.jpg"
 - 👋 HOLA SOY EL ING JUAN
 - 👀 EDUCACION REBELDE
 
